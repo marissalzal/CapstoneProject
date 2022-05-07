@@ -1,1 +1,0 @@
-https://github.com/maher-coder/Applied-Data-Science-Capstone/blob/main/EDA%20with%20SQL%20lab.ipynb
